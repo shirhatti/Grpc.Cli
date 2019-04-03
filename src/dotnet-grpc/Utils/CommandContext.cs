@@ -3,7 +3,7 @@
 
 using System;
 
-namespace Microsoft.DotNet.Cli.Utils
+namespace Grpc.Cli.Utils
 {
     public static class CommandContext
     {

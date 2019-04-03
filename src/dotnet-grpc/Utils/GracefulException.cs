@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Microsoft.DotNet.Cli.Utils
+namespace Grpc.Cli.Utils
 {
     public class GracefulException : Exception
     {

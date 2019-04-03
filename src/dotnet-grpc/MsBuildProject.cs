@@ -10,9 +10,9 @@ using Microsoft.Build.Evaluation;
 using Microsoft.Build.Exceptions;
 using Microsoft.Build.Framework;
 using Microsoft.Build.Logging;
-using Microsoft.DotNet.Cli.Utils;
 using Microsoft.DotNet.Tools.Common;
 using Microsoft.DotNet.Tools.ProjectExtensions;
+using Grpc.Cli.Utils;
 using NuGet.Frameworks;
 
 namespace Microsoft.DotNet.Tools

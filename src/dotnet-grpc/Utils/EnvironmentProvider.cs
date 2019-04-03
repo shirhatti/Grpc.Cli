@@ -8,7 +8,7 @@ using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices;
 
-namespace Microsoft.DotNet.Cli.Utils
+namespace Grpc.Cli.Utils
 {
     public class EnvironmentProvider : IEnvironmentProvider
     {

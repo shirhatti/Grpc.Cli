@@ -4,7 +4,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Microsoft.DotNet.Cli.Utils
+namespace Grpc.Cli.Utils
 {
     public interface IEnvironmentProvider
     {

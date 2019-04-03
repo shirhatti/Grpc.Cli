@@ -3,7 +3,7 @@
 
 using System.Collections.Generic;
 
-namespace Microsoft.DotNet.Cli.Utils
+namespace Grpc.Cli.Utils
 {
     public static class Env
     {

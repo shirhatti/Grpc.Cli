@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Microsoft.DotNet.Cli.Utils
+namespace Grpc.Cli.Utils
 {
     internal static class ExceptionExtensions
     {

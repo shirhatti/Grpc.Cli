@@ -3,7 +3,7 @@
 
 using Microsoft.DotNet.PlatformAbstractions;
 
-namespace Microsoft.DotNet.Cli.Utils
+namespace Grpc.Cli.Utils
 {
     public static class Constants
     {

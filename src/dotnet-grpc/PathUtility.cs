@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices;
-using Microsoft.DotNet.Cli.Utils;
+using Grpc.Cli.Utils;
 
 namespace Microsoft.DotNet.Tools.Common
 {
